@@ -40,13 +40,6 @@ job-portal/
 └── README.md
 ```
 
-## Live Demo
-
-Because this project is built entirely with static HTML, CSS, and JS, it can be deployed immediately to platforms like:
-- **Netlify**: Just drag and drop the folder.
-- **Vercel**: Deploy directly from Git.
-- **GitHub Pages**: Serve from the main branch.
-
 ---
 
 *Developed for O2H Frontend Assessment*
